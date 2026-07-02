@@ -1,5 +1,5 @@
 # dataset_saya
-Data Folder
+* Data Folder
 dataset_saya/
     kelas_1/
         gambar1.jpg
