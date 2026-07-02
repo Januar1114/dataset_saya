@@ -1,7 +1,7 @@
 # dataset_saya/
     kelas_1/
+        daylily.jpg
+        hibiscus.jpg
+    kelas_2/
+        ixora.jpg
         lotus.jpg
-        gambar2.jpg
-    # kelas_2/
-        # gambar1.jpg
-        # gambar2.jpg
