@@ -1,5 +1,5 @@
 # dataset_saya/
-    # kelas_1/
+    kelas_1/
         # lotus.jpg
         # gambar2.jpg
     # kelas_2/
